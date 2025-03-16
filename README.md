@@ -38,9 +38,11 @@
 ![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/arcpy_arcgis1022/4.png)
 #### 5、运行结果：
 ![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/arcpy_arcgis1022/5.png)
-#### 6、源码部分1：
+#### 6、属性结果：
 ![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/arcpy_arcgis1022/6.png)
-#### 7、源码部分2：
+#### 7、源码部分1：
 ![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/arcpy_arcgis1022/7.png)
+#### 8、源码部分2：
+![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/arcpy_arcgis1022/8.png)
 
 
