@@ -17,5 +17,19 @@
 #### 7、源码部分：
 ![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/DesktopClassLibrary1/7.png)
 
+## VBA判断图层熟性
+#### 1、创建VBA宏：
+![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/VBA/1.png)
+#### 2、VBA源码：
+![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/VBA/2.png)
+#### 3、创建菜单插入按钮：
+![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/VBA/3.png)
+#### 4、结果显示：
+![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/VBA/4.png)
+
+
+
+
+
 
 
