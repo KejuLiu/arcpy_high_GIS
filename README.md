@@ -17,7 +17,7 @@
 #### 7、源码部分：
 ![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/DesktopClassLibrary1/7.png)
 
-## VBA判断图层熟性
+## VBA判断图层属性
 #### 1、创建VBA宏：
 ![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/VBA/1.png)
 #### 2、VBA源码：
@@ -27,9 +27,20 @@
 #### 4、结果显示：
 ![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/VBA/4.png)
 
-
-
-
-
+## arcpy_arcgis1022实现计算图层几何面积
+#### 1、创建脚本：
+![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/arcpy_arcgis1022/1.png)
+#### 2、创建菜单插入脚本：
+![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/arcpy_arcgis1022/2.png)
+#### 3、选择图层字段：
+![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/arcpy_arcgis1022/3.png)
+#### 4、添加图层字段：
+![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/arcpy_arcgis1022/4.png)
+#### 5、运行结果：
+![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/arcpy_arcgis1022/5.png)
+#### 6、源码部分1：
+![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/arcpy_arcgis1022/6.png)
+#### 7、源码部分2：
+![img](https://github.com/KejuLiu/arcpy_high_GIS/blob/main/img/arcpy_arcgis1022/7.png)
 
 
