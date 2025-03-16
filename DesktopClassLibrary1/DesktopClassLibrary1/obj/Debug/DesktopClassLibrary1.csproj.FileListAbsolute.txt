@@ -1,0 +1,5 @@
+D:\arc\Csharp\arcmap\DesktopClassLibrary_hzy\DesktopClassLibrary1\DesktopClassLibrary1\bin\Debug\DesktopClassLibrary1.dll
+D:\arc\Csharp\arcmap\DesktopClassLibrary_hzy\DesktopClassLibrary1\DesktopClassLibrary1\bin\Debug\DesktopClassLibrary1.pdb
+D:\arc\Csharp\arcmap\DesktopClassLibrary_hzy\DesktopClassLibrary1\DesktopClassLibrary1\obj\Debug\DesktopClassLibrary1.csproj.ResolveComReference.cache
+D:\arc\Csharp\arcmap\DesktopClassLibrary_hzy\DesktopClassLibrary1\DesktopClassLibrary1\obj\Debug\DesktopClassLibrary1.dll
+D:\arc\Csharp\arcmap\DesktopClassLibrary_hzy\DesktopClassLibrary1\DesktopClassLibrary1\obj\Debug\DesktopClassLibrary1.pdb
